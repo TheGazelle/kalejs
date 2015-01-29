@@ -1,3 +1,3 @@
 # kalejs
 
-[Site home](https://github.com/TheGazelle/kalejs.git)
+[Site home](http://thegazelle.github.io/kalejs/)
